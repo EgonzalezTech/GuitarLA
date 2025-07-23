@@ -39,17 +39,17 @@ To run this project locally, follow these steps:
     git clone 
     ```
 2.  **Navigate to the project directory:**
-    \`\`\`bash
+    ```bash
     cd 
-    \`\`\`
+    ```
 3.  **Install dependencies:**
-    \`\`\`bash
+    ```bash
     npm install # or yarn install
-    \`\`\`
+    ```
 4.  **Start the development server:**
-    \`\`\`bash
+    ```bash
     npm run dev # or yarn dev
-    \`\`\`
+    ```
 
     This will start the application in development mode. Open your browser and navigate to the address provided (usually `http://localhost:5173`).
 
