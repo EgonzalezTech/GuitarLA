@@ -1,0 +1,23 @@
+{
+  "welcome_message": "Bienvenue sur notre application !",
+  "description_text": "Ceci est une démo d'internationalisation avec React, Vite et TypeScript.",
+  "click_me_button": "Cliquez ici",
+  "language_selector_label": "Sélectionnez une langue :",
+  "features_title": "Fonctionnalités",
+  "feature_1": "Interface utilisateur intuitive.",
+  "feature_2": "Performances optimisées avec Vite.",
+  "feature_3": "Contrôle total sur les traductions.",
+  "our_collection": "Notre Collection",
+  "footer_rights_reserved": "GuitarLA - Tous droits réservés",
+  "logo_alt_text": "Logo GuitarLA",
+  "cart_icon_alt_text": "Icône de panier",
+  "cart_empty_message": "Le panier est vide",
+  "table_header_image": "Image",
+  "table_header_name": "Nom",
+  "table_header_price": "Prix",
+  "table_header_quantity": "Quantité",
+  "guitar_image_alt_text": "Image de guitare : {{guitarName}}",
+  "cart_total_label": "Total à payer",
+  "empty_cart_button": "Vider le panier",
+  "add_to_cart_button": "Ajouter au panier"
+}

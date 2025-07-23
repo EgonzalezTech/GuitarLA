@@ -1,0 +1,23 @@
+{
+  "welcome_message": "Welcome to our application!",
+  "description_text": "This is a demo of internationalization with React, Vite, and TypeScript.",
+  "click_me_button": "Click Here",
+  "language_selector_label": "Select Language:",
+  "features_title": "Features",
+  "feature_1": "Intuitive user interface.",
+  "feature_2": "Optimized performance with Vite.",
+  "feature_3": "Full control over translations.",
+  "our_collection": "Our Collection",
+  "footer_rights_reserved": "GuitarLA - All Rights Reserved",
+  "logo_alt_text": "GuitarLA Logo",
+  "cart_icon_alt_text": "Shopping Cart Icon",
+  "cart_empty_message": "Cart is empty",
+  "table_header_image": "Image",
+  "table_header_name": "Name",
+  "table_header_price": "Price",
+  "table_header_quantity": "Quantity",
+  "guitar_image_alt_text": "Guitar image: {{guitarName}}",
+  "cart_total_label": "Total to pay",
+  "empty_cart_button": "Empty Cart",
+  "add_to_cart_button": "Add to Cart"
+}
