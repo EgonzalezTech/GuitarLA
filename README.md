@@ -35,9 +35,9 @@ This project was built using the following key technologies:
 To run this project locally, follow these steps:
 
 1.  **Clone the repository:**
-    \`\`\`bash
+    ```bash
     git clone 
-    \`\`\`
+    ```
 2.  **Navigate to the project directory:**
     \`\`\`bash
     cd 
