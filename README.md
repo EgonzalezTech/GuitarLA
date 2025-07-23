@@ -36,11 +36,11 @@ To run this project locally, follow these steps:
 
 1.  **Clone the repository:**
     \`\`\`bash
-    git clone [YOUR_REPOSITORY_URL]
+    git clone 
     \`\`\`
 2.  **Navigate to the project directory:**
     \`\`\`bash
-    cd [YOUR_REPOSITORY_DIRECTORY]
+    cd 
     \`\`\`
 3.  **Install dependencies:**
     \`\`\`bash
@@ -51,11 +51,8 @@ To run this project locally, follow these steps:
     npm run dev # or yarn dev
     \`\`\`
 
-    This will start the application in development mode. Open your browser and navigate to the address provided (usually `http://localhost:[port]`).
+    This will start the application in development mode. Open your browser and navigate to the address provided (usually `http://localhost:5173`).
 
-## 📂 Project Structure
-
-_(You can add a brief description of the folder structure here if you wish)_
 
 ## ✍️ Contributing
 
